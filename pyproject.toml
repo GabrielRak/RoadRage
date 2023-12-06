@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "roadrage"
+version = "0.1.0"
+description = "This repository is not for university it is just a manifesetation of my fear and anxiety regarrding all forms of traffic"
+authors = ["GabrielRak <gabrielblazejrak@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
